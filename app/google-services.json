@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "628390367025",
+    "project_id": "digiarogya-2a096",
+    "storage_bucket": "digiarogya-2a096.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628390367025:android:6d10852f3b6999313dea10",
+        "android_client_info": {
+          "package_name": "com.example.digiarogya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628390367025-g9qbm5vin43pj0pml8haamff81tj54ds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.digiarogya",
+            "certificate_hash": "3d73a4d77246e48ff70e2e1f56a02bdd69b213c0"
+          }
+        },
+        {
+          "client_id": "628390367025-31qrgg5v70q9vetoct6rrq06jq5il06v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmp6GKNO2d1XxXIY1Rbq75P4V8DgxeO-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628390367025-31qrgg5v70q9vetoct6rrq06jq5il06v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
